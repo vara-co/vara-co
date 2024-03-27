@@ -1,5 +1,5 @@
-👋 ¡Hola! I’m "Missha" @vara-co
------------------------------------------
+👋 ¡Hola! I’m "Missha", an aspiring Engineer.
+---------------------------------------------
 <br>
 
 **Tech Certifications:** <br>
