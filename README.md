@@ -5,3 +5,6 @@
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
 - [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DA_2024PK.pdf) (Updated with every new skill)
 
+Keywords:
+#HispanicWomenInTech #WomenInTech #WomenWhoCode 
+Excel, VBA, Python, R, Pandas, Matplotlib, APIs, PostreSQL, Postgres, SQL, SQLAlchemy, SQLite, Flask, NoSQL, MongoDB, Javascript, GitHub, Slack, Google Slides, Power POint, Clip Studio Paint
