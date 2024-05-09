@@ -8,3 +8,4 @@
 Keywords:
 #HispanicWomenInTech #WomenInTech #WomenWhoCode 
 Excel, VBA, Python, R, Pandas, Matplotlib, APIs, PostreSQL, Postgres, SQL, SQLAlchemy, SQLite, Flask, NoSQL, MongoDB, HTML, Javascript, Tableau, ETL, Data Analysis, GitHub, Slack, Google Slides, Power Point, Clip Studio Paint, Inkscape, Adobe Photoshop. 
+Novice understanding of Machine Learning: Unsupervised Learning Predictions.
