@@ -3,7 +3,7 @@
 
 - [Check out my Tech Certifications backing up some of my skills](https://github.com/vara-co/Tech-Certifications/tree/main)<br>
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
-- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_DA_2024_yrs.pdf) (Updated with every new skill)
+- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_CS_2024_yrs4printing.pdf) (Updated with every new skill)
 
 Keywords:
 #HispanicWomenInTech #WomenInTech #WomenWhoCode 
