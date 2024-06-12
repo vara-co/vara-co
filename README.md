@@ -5,7 +5,7 @@
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
 - [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LMVS_CS_2024_yrs4printing.pdf) (Updated with every new skill)
 
-Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024
+Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
 Currently enrolled in the IBM Full Stack Application Development MicroBachelors Pathway Program
 
 Keywords:
