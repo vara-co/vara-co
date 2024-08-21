@@ -3,7 +3,7 @@
 
 - [Check out my Tech Certifications backing up some of my skills](https://github.com/vara-co/Tech-Certifications/tree/main)<br>
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
-- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LauraVara_DA2024_Resume.pdf) (Updated with every new skill)
+- [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LauraVara_FEND_24.pdf) (Updated with every new skill)
 
 Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
 Currently enrolled in the IBM Full Stack Application Development MicroBachelors Pathway Program
