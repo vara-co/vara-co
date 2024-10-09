@@ -1,5 +1,6 @@
 
-![GitProfile4](https://github.com/vara-co/vara-co/assets/152572519/f6d1ad36-0699-4edc-8956-b88385d44c81)
+![GitProfile4](https://github.com/user-attachments/assets/a954a309-fc9d-4ee4-8679-46cc786fb921)
+
 
 - [Check out my Tech Certifications backing up some of my skills](https://github.com/vara-co/Tech-Certifications/tree/main)<br>
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
