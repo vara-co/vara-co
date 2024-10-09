@@ -6,8 +6,9 @@
 - [Drop me a line via LinkedIn](https://www.linkedin.com/in/laura-vara-co/)
 - [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LauraVara_FEND_24.pdf) (Updated with every new skill)
 
-Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
-Currently enrolled in the IBM Full Stack Application Development MicroBachelors Pathway Program
+**Past:** Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
+**Present:** Currently enrolled in the Udacity - Front-End Web Development Nanodegree program.<br/>
+**Future:** Looking forward to the Full-Stack Development Bootcamp with CodeSquad, starting November 2024 - July 2025.<br/>
 
 Keywords:
 #HispanicWomenInTech #WomenInTech #WomenWhoCode 
