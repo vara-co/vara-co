@@ -7,9 +7,11 @@
 - [Resume](https://github.com/vara-co/Tech-Certifications/blob/main/LauraVara_FEND_24.pdf) (Updated with every new skill)
 
 **Past:** 
-Completed my Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
-Completed the Udacity - Front-End Web Development Nanodegree program.<br/>
-**Present:** Currently practicing Front-End Development and learning via LinkedIn courses to become a Software Engineer.<br/>
+- Completed the Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
+- Completed the Udacity - Front-End Web Development Nanodegree program.<br/>
+
+**Present:** Currently practicing Front-End Development while upskilling via LinkedIn courses to become a Software Developer.<br/>
+
 **Future:** Looking for an apprenticeship or junior work opportunities <br/>
 
 Keywords:
