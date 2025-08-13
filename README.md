@@ -10,9 +10,9 @@
 - Completed the Data Analytics & Visualization Bootcamp from The University of Denver on 06/10/2024 <br/>
 - Completed the Udacity - Front-End Web Development Nanodegree program.<br/>
 
-**Present:** Currently practicing Front-End Development while upskilling via LinkedIn courses to become a Software Developer.<br/>
+**Present:** Currently pursuing the Google UX Design Professional Certificate.<br/>
 
-**Future:** Looking for an apprenticeship or junior work opportunities <br/>
+**Future:** Looking for a role as part of the UX Design team at a forward-thinking company <br/>
 
 Keywords:
 #HispanicWomenInTech #WomenInTech #WomenWhoCode 
