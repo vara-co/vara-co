@@ -1,5 +1,5 @@
 
-![GitProfile4](https://github.com/user-attachments/assets/a954a309-fc9d-4ee4-8679-46cc786fb921)
+![LaurelIntroUX_BL2026](https://github.com/user-attachments/assets/629f5362-4d13-465b-a44a-8bb8b9fdcf50)
 
 
 - [Check out my Tech Certifications backing up some of my skills](https://github.com/vara-co/Tech-Certifications/tree/main)<br>
